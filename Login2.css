@@ -1,0 +1,78 @@
+*{
+	margin:0;
+	padding: 0;
+	box-sizing: border-box;
+}
+.area{
+	height:100%;
+	width:100%;
+		background-image: url(trees.jpg);
+		background-position: center;
+		background-size: cover;
+		position:absolute;
+}
+
+.fieldset{	position: absolute;
+	margin-left:600px;
+	margin-top:250px;
+	width: 350px;
+	height: 300px;
+	border-color:; 
+	border-width: 12px;
+	 border-radius: 20px;
+}
+
+.legend{
+	font-size:27px;
+	font-family: sans-serif;
+	font-weight: 200;
+	outline:none ;
+	color:white;
+	position: absolute;
+	padding-left: 10px;
+
+}
+
+label{
+	font-size: 18px;
+}
+.input-field{
+width:50%;
+	padding:5px ;
+	margin:4px ;
+	border-left:1px;
+	border-top:2px;
+	border-right: 1px;
+	border-bottom:3px solid #999;
+	outline:none;
+	background:#03242b;
+	background-color: ;
+	border-bottom-right-radius: 15px;
+
+}
+button{
+width:35%;
+	padding:9px 10px;
+	cursor: pointer;
+	padding-top: px;
+	display:block ;
+	margin: auto;
+	background:#e64a19;
+	border:1px;
+	outline:none;
+	border-radius: 20px;
+	font-size: 14px;
+}
+input,select,textarea{
+	color:silver;
+}
+input::placeholder{
+	color: black;}
+	
+label{
+	font-size: 17px;
+	    font-size: 20px;
+    background-color:#7e98a5 ;
+    font-style: ;
+
+}
